@@ -1,0 +1,8 @@
+audio_synthesizer.code-workspace
+**/.DS_Store
+.vscode/**
+makefile
+audio_synthesizer
+extra/**
+bundles/**
+build/**
